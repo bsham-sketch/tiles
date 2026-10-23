@@ -1,0 +1,4 @@
+# HTTrack website copier cache / temp files
+hts-cache/
+hts-in_progress.lock
+~hts-tmp/
